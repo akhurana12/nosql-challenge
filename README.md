@@ -1,6 +1,6 @@
 # nosql-challenge
  
- The purpose of this project is to analyze data from the UK Food Stadnards Agency to make a determination of various factors based on the ratings data. The questions analyzed were as follows:
+ The purpose of this project is to analyze data from the UK Food Standards Agency to make a determination of various factors based on the ratings data. The questions analyzed were as follows:
 
     (A) Which establishments have a hygiene score equal to 20?
     (B) Which establishments in London have a RatingValue greater than or equal to 4?
